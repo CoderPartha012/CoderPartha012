@@ -1,349 +1,249 @@
+[README.md](https://github.com/user-attachments/files/32040161/README.md)
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Partha%20Rakshit&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Quality%20Assurance%20Engineer%20%7C%20Breaking%20Software%20So%20Users%20Don't%20Have%20To&descSize=16&descAlignY=55&descColor=94a3b8" width="100%"/>
+# 👋 Hi, I’m Partha Rakshit
 
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&random=false&width=700&height=80&lines=Manual+Testing+%E2%9C%A6+Automation+Testing+%E2%9C%A6+API+Testing;Performance+Monitoring+%E2%9C%A6+AI+Prompt+Testing+%E2%9C%A6+Database+Testing)](https://git.io/typing-svg)
+### QA Engineer · Test Automation · AI Feature Testing
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=coderpartha012&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<a href="https://github.com/CoderPartha012?tab=followers"><img src="https://img.shields.io/github/followers/CoderPartha012?label=Followers&style=for-the-badge&color=0f3460&labelColor=1a1a2e" alt="Followers"/></a>
+**🔎 Quality beyond the happy path.**
+
+I test what users see, what APIs return, and what the database actually stores.
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" alt="Animated illustration of a developer working at a computer" />
+
+<sub>🧪 Explore &nbsp; · &nbsp; ⚙️ Automate &nbsp; · &nbsp; 🐞 Investigate &nbsp; · &nbsp; ✅ Verify</sub>
+
+<a href="https://www.linkedin.com/in/partharakshit">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge" alt="Connect with Partha on LinkedIn" />
+</a>
+<a href="https://latestportfoliobypartha.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore_my_work-7C3AED?style=for-the-badge" alt="Visit Partha’s portfolio" />
+</a>
+<a href="mailto:partharakshit5653@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_hello-166534?style=for-the-badge" alt="Email Partha" />
+</a>
+<a href="https://techypartha.blogspot.com/">
+  <img src="https://img.shields.io/badge/Blog-Techy_Partha-7C3AED?style=for-the-badge" alt="Read Techy Partha" />
+</a>
+
+<br /><br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Explore+the+edge+cases.;Automate+the+repeatable+checks.;Follow+the+data.;Question+the+AI+output." alt="Explore the edge cases. Automate the repeatable checks. Follow the data. Question the AI output." />
 
 </div>
 
 ---
 
-<!-- ABOUT ME WITH GIF -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> About Me
+## 👨‍💻 Behind the tests
 
-<img align="right" alt="QA Testing GIF" width="360" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
+I'm **Partha**, a QA engineer from **West Bengal, India**, with experience testing SaaS products, building automation, validating APIs and data, and evaluating AI-powered features.
 
-I'm a **Quality Assurance Engineer with 2+ years of experience** in ensuring software quality for SaaS products. I don't just find bugs. I think from the user's perspective and catch issues before they ever reach production.
+My background includes **full-time QA at Legistify** and a **six-month QA internship at Wesoftek**. I enjoy turning an unclear requirement into a useful test scenario—and an intermittent issue into a reproducible bug report.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="18" /> Previously owned **end-to-end quality** for 2 core modules at **Legistify** (Legal SaaS)
+- **Product quality:** Functional, regression, smoke, exploratory, integration, and UAT testing.
+- **Automation:** Java, Selenium, TestNG, Playwright, and Cucumber through internship work and hands-on projects.
+- **Beyond the UI:** API checks with Postman, data validation with MySQL and MongoDB, and performance investigation with New Relic.
+- **AI testing:** Reviewing summaries, obligations, key clauses, and chat responses across models such as GPT-4, Claude, and LLaMA.
+- **Builder mindset:** I also explore frontend development with React, TypeScript, and Next.js.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="18" /> Authored **550+ test cases** and built **120+ automated test scripts**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="18" /> Led **CRM integration testing** for HubSpot, Zoho, Salesforce, and Slack
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="18" /> **AI prompt testing** across GPT-4, LLaMA 3, Claude Sonnet, and Gemini
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="18" /> Monitor production health using **New Relic, SonarQube, and AWS**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" width="18" /> Tracked and resolved **200+ defects** across my career
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="18" /> **Fun fact:** I test from the user's perspective, not just the requirement doc
-
-<br clear="both"/>
+> A passing test is useful. Understanding what it proves—and what it misses—is better.
 
 ---
 
-<!-- WHAT I'M DOING NOW -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> What I'm Up To
+## 🔬 My testing lens
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" width="18" /> Currently looking for **QA Engineer roles** (Manual + Automation)
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="18" /> Deepening my skills in **Playwright, CI/CD pipelines, and performance testing**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pencil.png" width="18" /> Writing about QA and testing on my [Tech Blog](https://techypartha.blogspot.com/)
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Medium-Light%20Skin%20Tone.png" width="18" /> Solving problems on [LeetCode](https://www.leetcode.com/partha_16) and [HackerRank](https://www.hackerrank.com/partharakshit561)
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="18" /> Reach me at **partharakshit5653@gmail.com**
+| Layer | Questions I bring to it |
+| :--- | :--- |
+| **User experience** | Does the complete journey work? What happens with invalid input, missing data, or a different user role? |
+| **API & integrations** | Are responses, errors, permissions, and connected workflows behaving as expected? |
+| **Data** | Does the saved state agree with the UI and API? Are updates reflected correctly? |
+| **Automation** | Is the check repeatable, maintainable, and clear enough to diagnose when it fails? |
+| **AI features** | Is the output relevant, complete, consistent with the source, and free of unsupported claims? |
+| **Performance** | Where do latency and errors appear, and what do the transaction traces tell us? |
 
 ---
 
-<!-- TECH STACK -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> My QA Tech Stack
+## 🛠️ My QA & engineering toolkit
 
-<div align="center">
+A practical toolkit for investigating behaviour, checking data, and automating repeatable tests.
 
-### 🔧 Languages & Automation
+### 🧪 Manual testing & quality practices
+
 <table>
 <tr>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java" />
-<br><sub><b>Java</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="45" height="45" alt="Selenium" />
-<br><sub><b>Selenium</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://playwright.dev/img/playwright-logo.svg" width="45" height="45" alt="Playwright" />
-<br><sub><b>Playwright</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="TestNG" />
-<br><sub><b>TestNG</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="45" height="45" alt="Maven" />
-<br><sub><b>Maven</b></sub>
-</td>
+<td align="center" width="150">🧭<br /><sub><b>Test scenarios</b></sub></td>
+<td align="center" width="150">📝<br /><sub><b>Test cases</b></sub></td>
+<td align="center" width="150">✅<br /><sub><b>Functional testing</b></sub></td>
+<td align="center" width="150">🔁<br /><sub><b>Regression testing</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="150">🔥<br /><sub><b>Smoke testing</b></sub></td>
+<td align="center" width="150">🔎<br /><sub><b>Exploratory testing</b></sub></td>
+<td align="center" width="150">🔗<br /><sub><b>Integration testing</b></sub></td>
+<td align="center" width="150">🙋<br /><sub><b>UAT</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="150">🐞<br /><sub><b>Bug reporting</b></sub></td>
+<td align="center" width="150">🤖<br /><sub><b>AI feature testing</b></sub></td>
+<td align="center" width="150">🌐<br /><sub><b>REST API testing</b></sub></td>
+<td align="center" width="150">🧩<br /><sub><b>Page Object Model</b></sub></td>
 </tr>
 </table>
 
-### 🔌 API & Database Testing
+### ⚙️ Automation frameworks
+
 <table>
 <tr>
-<td align="center" width="100">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman" />
-<br><sub><b>Postman</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL" />
-<br><sub><b>MySQL</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB" />
-<br><sub><b>MongoDB</b></sub>
-</td>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="38" height="38" alt="Selenium" /><br /><sub><b>Selenium</b></sub></td>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="38" height="38" alt="Playwright" /><br /><sub><b>Playwright</b></sub></td>
+<td align="center" width="150">🧪<br /><sub><b>TestNG</b></sub></td>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="38" height="38" alt="JUnit" /><br /><sub><b>JUnit</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" width="38" height="38" alt="Cucumber" /><br /><sub><b>Cucumber</b></sub></td>
 </tr>
 </table>
 
-### 📊 Monitoring & Observability
+### 💻 Languages
+
 <table>
 <tr>
-<td align="center" width="100">
-<img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" width="45" height="45" alt="New Relic" />
-<br><sub><b>New Relic</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" width="45" height="45" alt="SonarQube" />
-<br><sub><b>SonarQube</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS" />
-<br><sub><b>AWS</b></sub>
-</td>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="38" height="38" alt="Java" /><br /><sub><b>Java</b></sub></td>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" /><br /><sub><b>JavaScript</b></sub></td>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
+<td align="center" width="150">🗃️<br /><sub><b>SQL</b></sub></td>
 </tr>
 </table>
 
-### ⚙️ CI/CD & Project Tools
+### 📡 API, performance & databases
+
 <table>
 <tr>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins" />
-<br><sub><b>Jenkins</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git" />
-<br><sub><b>Git</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
-<br><sub><b>GitHub</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="45" height="45" alt="Jira" />
-<br><sub><b>Jira</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" />
-<br><sub><b>Linux</b></sub>
-</td>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="38" height="38" alt="Postman" /><br /><sub><b>Postman</b></sub></td>
+<td align="center" width="150">⏱️<br /><sub><b>JMeter</b></sub></td>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="38" height="38" alt="MySQL" /><br /><sub><b>MySQL</b></sub></td>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="38" height="38" alt="MongoDB" /><br /><sub><b>MongoDB</b></sub></td>
 </tr>
 </table>
 
-</div>
-
----
-
-<!-- TESTING EXPERTISE -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Search" width="30" /> Testing Expertise
-
-<div align="center">
-
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-1a1a2e?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Automation Testing](https://img.shields.io/badge/Automation%20Testing-16213e?style=for-the-badge&logo=selenium&logoColor=white)
-![API Testing](https://img.shields.io/badge/API%20Testing-0f3460?style=for-the-badge&logo=postman&logoColor=white)
-![Database Testing](https://img.shields.io/badge/Database%20Testing-533483?style=for-the-badge&logo=mongodb&logoColor=white)
-![Functional Testing](https://img.shields.io/badge/Functional%20Testing-1a1a2e?style=for-the-badge&logo=testcafe&logoColor=white)
-![Regression Testing](https://img.shields.io/badge/Regression%20Testing-16213e?style=for-the-badge&logo=cypress&logoColor=white)
-![Integration Testing](https://img.shields.io/badge/Integration%20Testing-0f3460?style=for-the-badge&logo=azure-devops&logoColor=white)
-![E2E Testing](https://img.shields.io/badge/E2E%20Testing-533483?style=for-the-badge&logo=playwright&logoColor=white)
-![Mobile Testing](https://img.shields.io/badge/Mobile%20Testing-1a1a2e?style=for-the-badge&logo=android&logoColor=white)
-![AI Prompt Testing](https://img.shields.io/badge/AI%20Prompt%20Testing-16213e?style=for-the-badge&logo=openai&logoColor=white)
-![Performance Monitoring](https://img.shields.io/badge/Performance%20Monitoring-0f3460?style=for-the-badge&logo=newrelic&logoColor=white)
-![CRM Integration Testing](https://img.shields.io/badge/CRM%20Integration%20Testing-533483?style=for-the-badge&logo=salesforce&logoColor=white)
-
-</div>
-
----
-
-<!-- CAREER NUMBERS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" /> My QA Numbers
-
-<div align="center">
-
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="20" /> Test Cases Written | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20" /> Automation Scripts | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" width="20" /> Defects Tracked | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="20" /> CRM Integrations Tested | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="20" /> Weekly Reports Delivered |
-|:---:|:---:|:---:|:---:|:---:|
-| **550+** | **120+** | **200+** | **4 Platforms** | **150+** |
-
-</div>
-
----
-
-<!-- PROFESSIONAL JOURNEY -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="30" /> Professional Journey
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│  🏢 Quality Analyst Executive @ Legistify (Legal SaaS Platform)     │
-│  📅 Sept 2024 ➜ May 2026 | Full-Time                               │
-│                                                                     │
-│  ✦ Owned end-to-end QA for Contract & Notice Management modules     │
-│  ✦ 550+ test cases (Functional, Regression, AI Testing)             │
-│  ✦ 120+ automation scripts (Java, Selenium, Playwright, TestNG)     │
-│  ✦ Led CRM integration testing (HubSpot, Zoho, Salesforce, Slack)   │
-│  ✦ API testing (80+ endpoints) + DB testing (MySQL, MongoDB)        │
-│  ✦ Monitoring: New Relic (APM) + SonarQube + AWS (Redis, OpenSearch)│
-│  ✦ AI prompt testing across GPT-4, LLaMA 3, Claude, Gemini         │
-│  ✦ Delivered 150+ weekly analytical reports to stakeholders         │
-│                                                                     │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  🏢 QA Intern @ Wesoftek Solutions                                  │
-│  📅 Dec 2023 ➜ May 2024 | Internship                               │
-│                                                                     │
-│  ✦ Manual testing (Functional, Regression, Smoke Testing)           │
-│  ✦ Wrote 80+ test cases across 10+ Agile sprints                   │
-│  ✦ Automation exposure with Selenium WebDriver + TestNG             │
-│  ✦ API testing using Postman (30+ endpoints validated)              │
-│  ✦ Tracked 60+ defects in Jira with 2.5 day avg turnaround         │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<!-- WHAT I DO DIFFERENTLY -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="30" /> What Makes Me Different
+### 🔧 Build, delivery & collaboration
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38" height="38" alt="Git" /><br /><sub><b>Git</b></sub></td>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="38" height="38" alt="GitHub" /><br /><sub><b>GitHub</b></sub></td>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="38" height="38" alt="Maven" /><br /><sub><b>Maven</b></sub></td>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="38" height="38" alt="Jenkins" /><br /><sub><b>Jenkins</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="38" height="38" alt="Jira" /><br /><sub><b>Jira</b></sub></td>
+<td align="center" width="150">📋<br /><sub><b>Taiga</b></sub></td>
+</tr>
+</table>
 
-### 🧠 My Testing Approach
-```
-✦ Think like a user, not just a tester
-✦ Manual first to understand, automate once stable
-✦ Test the backend, not just the UI
-✦ Monitor production, not just pre-release
-✦ Every bug report tells a complete story
-```
+### 📊 Monitoring & code quality
 
-</td>
-<td width="50%">
+<table>
+<tr>
+<td align="center" width="150">📈<br /><sub><b>New Relic</b></sub></td>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="38" height="38" alt="SonarQube" /><br /><sub><b>SonarQube</b></sub></td>
+</tr>
+</table>
 
-### 📋 My Testing Workflow
-```
-1. Read requirements (or ask when unclear)
-2. Write test cases with edge cases in mind
-3. Execute manual testing thoroughly
-4. Automate stable regression scenarios
-5. Validate APIs and database consistency
-6. Monitor performance and report weekly
-```
+### 🎨 Also explored in projects & internship work
 
-</td>
+<table>
+<tr>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38" height="38" alt="React" /><br /><sub><b>React</b></sub></td>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="38" height="38" alt="Next.js" /><br /><sub><b>Next.js</b></sub></td>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="38" height="38" alt="HTML" /><br /><sub><b>HTML</b></sub></td>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="38" height="38" alt="CSS" /><br /><sub><b>CSS</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="38" height="38" alt="Tailwind CSS" /><br /><sub><b>Tailwind CSS</b></sub></td>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="38" height="38" alt="Python basics" /><br /><sub><b>Python basics</b></sub></td>
+<td align="center" width="150">🛡️<br /><sub><b>OWASP ZAP</b></sub></td>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="38" height="38" alt="Android manual testing" /><br /><sub><b>Android manual testing</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="150">📱<br /><sub><b>iOS manual testing</b></sub></td>
 </tr>
 </table>
 
 ---
 
-<!-- QA PHILOSOPHY -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="30" /> My QA Philosophy
+## 🚀 Projects I've worked on
 
-<div align="center">
+### 🛒 CaseKaro — E-commerce test automation
 
-> ### *"I don't just look for bugs. I ask myself: if I were the user, what would confuse me, frustrate me, or make me leave? That's where the real testing begins."*
+**Java · Playwright · Cucumber**
 
-</div>
+An automation project covering product search, negative brand validation, product options, and cart checks.
 
----
+- Validates a shopping flow across Hard, Soft, and Glass cover options.
+- Checks the expected cart item count and captures product details.
+- Includes failure screenshots and thread-safe browser handling.
 
-<!-- GITHUB STATS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> GitHub Stats
+### 📅 Zynerd — Booking flow automation
 
-<div align="center">
+**Java · Selenium · TestNG**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=coderpartha012&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&ring_color=3B82F6" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=coderpartha012&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=FF6347&currStreakLabel=3B82F6&sideLabels=C9D1D9&dates=C9D1D9" />
+A booking workflow project covering form validation and payment checks in a test environment.
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderpartha012&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" />
+- Exercises invalid inputs and checks validation messages.
+- Covers Razorpay test payment flows and booking-success verification.
+- Uses properties-based configuration and toast/error assertions.
 
-</div>
+### 🗂️ TaskMate — Building from the other side of the screen
 
----
+**React · TypeScript**
 
-<!-- ACTIVITY GRAPH -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Graph" width="30" /> Contribution Graph
+A task-management project with task categories, a repository data grid, analytics, reports, and role/permission settings. Building interfaces helps me understand the implementation choices behind the behaviour I test.
 
-<div align="center">
-
-[![Partha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coderpartha012&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&area_color=3B82F6&hide_border=true)](https://github.com/CoderPartha012)
-
-</div>
+**[Explore my public repositories →](https://github.com/coderpartha012?tab=repositories)**
 
 ---
 
-<!-- CONNECT WITH ME -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" /> Let's Connect
+## 💼 Experience in context
 
-<div align="center">
+### Legistify Services Pvt. Ltd. · Quality Analyst Executive
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/partha-rakshit)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:partharakshit5653@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/partha_16)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/partharakshit561)
-[![Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://techypartha.blogspot.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/parthar90816817)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/i_am_uzumaki_20)
+*September 2024 – May 2026*
 
-</div>
+- Owned QA activities for Contract Management and Notice Management workflows, including approvals, repositories, filters, and search.
+- Created and maintained test cases across old and redesigned interfaces; tracked defects and verified fixes in Taiga.
+- Tested CRM integrations, including HubSpot, Zoho, and Salesforce.
+- Evaluated AI features such as summaries, obligations, key clauses, draft chat, and due diligence generation.
+- Used New Relic, SonarQube, and database health reports to support quality and performance investigations.
 
----
+### Wesoftek Solutions Pvt. Ltd. · QA Intern
 
-<!-- CODING PROFILES -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" /> Coding Profiles
+*December 2023 – May 2024*
 
-<div align="center">
-
-| Platform | Profile | Focus |
-|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="25"/> | [LeetCode](https://www.leetcode.com/partha_16) | Data Structures & Algorithms |
-| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="25"/> | [HackerRank](https://www.hackerrank.com/partharakshit561) | Java, Problem Solving |
-| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" width="25"/> | [HackerEarth](https://www.hackerearth.com/@partharakshit5653) | Competitive Programming |
-
-</div>
+- Worked on manual and automated testing for SuperManage and PrimeAlpha.
+- Used Java, Selenium WebDriver, TestNG, and the Page Object Model for automation.
+- Supported API, performance, and database checks with Postman, JMeter, and MySQL.
+- Gained experience with Jenkins, defect tracking, and collaborative testing workflows.
 
 ---
 
-<!-- OPEN TO WORK -->
+## 🌱 Beyond the test suite
+
+- **Education:** B.Tech in Computer Science & Engineering, Lovely Professional University · 2024.
+- **Writing:** I share technology articles on [Techy Partha](https://techypartha.blogspot.com/).
+- **Problem solving:** [LeetCode](https://www.leetcode.com/partha_16) · [HackerRank](https://www.hackerrank.com/partharakshit561) · [HackerEarth](https://www.hackerearth.com/@partharakshit5653).
+- **Interests:** Reliable automation, useful bug reports, AI output evaluation, and building better software experiences.
+
+---
+
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="25" /> Open to QA Engineer Opportunities
+### 🤝 Have a product to test or a quality problem to solve?
 
-**Manual Testing | Automation Testing | API Testing | Database Testing | Performance Monitoring**
+Let's talk about **QA engineering, test automation, and AI feature quality**.
 
-*If you're building something and need someone who genuinely cares about quality, let's talk.*
+**[Connect on LinkedIn](https://www.linkedin.com/in/partharakshit) · [View my portfolio](https://latestportfoliobypartha.netlify.app/) · [Send an email](mailto:partharakshit5653@gmail.com)**
 
-<br>
-
-[![Email Me](https://img.shields.io/badge/Hire%20Me-partharakshit5653%40gmail.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:partharakshit5653@gmail.com)
+<sub>Curiosity finds the edge case. Evidence makes it actionable.</sub>
 
 </div>
-
-<br>
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer" width="100%"/>
