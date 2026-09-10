@@ -28,11 +28,11 @@ I'm a **Quality Assurance Engineer with 2+ years of experience** in ensuring sof
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="18" /> Led **CRM integration testing** for HubSpot, Zoho, Salesforce, and Slack
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="18" /> **AI prompt testing** across GPT-4, LLaMA 3, Claude Sonnet, and Gemini
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="18" /> **AI prompt testing** across GPT-4, LLaMA 3, Claude Sonnet, and Gemini
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="18" /> Monitor production health using **New Relic, SonarQube, and AWS**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Lady%20Beetle.png" width="18" /> Tracked and resolved **200+ defects** across my career
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" width="18" /> Tracked and resolved **200+ defects** across my career
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="18" /> **Fun fact:** I test from the user's perspective, not just the requirement doc
 
@@ -175,11 +175,11 @@ I'm a **Quality Assurance Engineer with 2+ years of experience** in ensuring sof
 ---
 
 <!-- CAREER NUMBERS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="30" /> My QA Numbers
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" /> My QA Numbers
 
 <div align="center">
 
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="20" /> Test Cases Written | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="20" /> Automation Scripts | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Lady%20Beetle.png" width="20" /> Defects Tracked | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="20" /> CRM Integrations Tested | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="20" /> Weekly Reports Delivered |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="20" /> Test Cases Written | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20" /> Automation Scripts | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" width="20" /> Defects Tracked | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="20" /> CRM Integrations Tested | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="20" /> Weekly Reports Delivered |
 |:---:|:---:|:---:|:---:|:---:|
 | **550+** | **120+** | **200+** | **4 Platforms** | **150+** |
 
@@ -261,7 +261,7 @@ I'm a **Quality Assurance Engineer with 2+ years of experience** in ensuring sof
 ---
 
 <!-- QA PHILOSOPHY -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" alt="Crystal Ball" width="30" /> My QA Philosophy
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="30" /> My QA Philosophy
 
 <div align="center">
 
